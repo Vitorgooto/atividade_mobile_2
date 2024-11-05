@@ -1,0 +1,58 @@
+{
+  "ItemsDePesca": [
+    {
+      "id": "1",
+      "name": "Vara de Pesca",
+      "weight": 1.5
+    },
+    {
+      "id": "2",
+      "name": "Carretilha",
+      "weight": 0.7
+    },
+    {
+      "id": "3",
+      "name": "Isca Artificial",
+      "weight": 0.2
+    },
+    {
+      "id": null,
+      "name": "Linha de Pesca",
+      "weight": 0.1
+    },
+    {
+      "id": null,
+      "name": "Linha de Pesca",
+      "weight": 0.1
+    },
+    {
+      "id": null,
+      "name": "Linha de Pesca",
+      "weight": 0.1
+    },
+    {
+      "id": null,
+      "name": "Linha de Pesca",
+      "weight": 0.1
+    }
+  ],
+  "fishingEquipment": [
+    {
+      "id": "1",
+      "name": "Kit Básico",
+      "items": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kit Avançado",
+      "items": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}
